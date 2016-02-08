@@ -1,4 +1,8 @@
-https://developer.chrome.com/extensions/getstarted
-https://developer.chrome.com/extensions/overview
-https://developer.chrome.com/extensions/devguide
-https://developer.chrome.com/extensions/manifest
+0) https://developer.chrome.com/extensions/getstarted
+
+1) https://developer.chrome.com/extensions/overview
+2) https://developer.chrome.com/extensions/tut_debugging
+3) https://developer.chrome.com/extensions/api_index
+
+4) https://developer.chrome.com/extensions/devguide
+5) https://developer.chrome.com/extensions/manifest
