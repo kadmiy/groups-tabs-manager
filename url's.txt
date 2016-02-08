@@ -1,3 +1,5 @@
+Chromium
+--------
 0) https://developer.chrome.com/extensions/getstarted
 
 1) https://developer.chrome.com/extensions/overview
@@ -6,3 +8,9 @@
 
 4) https://developer.chrome.com/extensions/devguide
 5) https://developer.chrome.com/extensions/manifest
+
+-=-=-=-=-=-=-
+Opera
+-----
+
+0) https://dev.opera.com/extensions/
