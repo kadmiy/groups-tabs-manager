@@ -1,5 +1,5 @@
-Chromium
---------
+   Chromium
+-=-=-=-=-=-=-=-
 0) https://developer.chrome.com/extensions/getstarted
 
 1) https://developer.chrome.com/extensions/overview
@@ -8,9 +8,16 @@ Chromium
 
 4) https://developer.chrome.com/extensions/devguide
 5) https://developer.chrome.com/extensions/manifest
+6) https://developer.chrome.com/extensions/browserAction
 
--=-=-=-=-=-=-
-Opera
------
+7) https://developer.chrome.com/extensions/samples#search:
+8) https://developers.google.com/custom-search/docs/tutorial/implementingsearchbox
+
+-=-=-=-=-=-=-=-
+
+     Opera
+-=-=-=-=-=-=-=-
 
 0) https://dev.opera.com/extensions/
+
+-=-=-=-=-=-=-=-
